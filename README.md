@@ -63,5 +63,6 @@ lssdp_add_example 命令会注册一个名为 `urn:rt-thread:service:ssdp` 的�
 
 ## 5、 联系方式 & 感谢
 
+- 原作者：[zlargon](https://github.com/zlargon/lssdp/commits?author=zlargon) 
 - 维护： RT-Thread 开发团队
 - 主页： https://github.com/RT-Thread-packages/lssdp
